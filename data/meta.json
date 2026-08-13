@@ -6,7 +6,7 @@
   },
   "members": [
     {
-      "id": "9daxkgtl",
+      "id": "u39wj6l1",
       "name": "Rasya Andes Avrilio",
       "role": "",
       "quote": "\"\"",
@@ -151,11 +151,17 @@
   ],
   "timeline": [
     {
-      "id": "vq3d8hcw",
-      "year": "Agustus 2026 semester 1",
-      "title": "kitu weh canda dan tawa",
+      "id": "bpm7ljkp",
+      "year": "Agustus 2026 , 1 Semester",
+      "title": "kitu weh canda tawa",
       "desc": ""
     }
   ],
-  "quotes": []
+  "quotes": [
+    {
+      "id": "7c633jl9",
+      "name": "Abdul Az",
+      "text": "Pokonamah Madeps"
+    }
+  ]
 }
