@@ -4,164 +4,92 @@
     "heroSub": "Bukan kertas yang kita pegang, tapi momen yang kita simpan.<br/>Selamat datang di buku tahunan digital kelas kami.",
     "year": "2024 - 2027"
   },
-  "members": [
-    {
-      "id": "u39wj6l1",
-      "name": "Rasya Andes Avrilio",
-      "role": "",
-      "quote": "\"\"",
-      "ig": "28archivee3_",
-      "hasPhoto": false
-    }
-  ],
+  "members": [],
   "gallery": [
     {
-      "id": "spu74xa9",
-      "title": "IMG-20260809-WA0186",
-      "category": "kelas",
-      "photoMime": "image/jpeg",
-      "photoExt": "jpeg"
+      "id": "i7fdo9rh",
+      "title": "Hari Pertama Kelas XII",
+      "category": "kelas"
     },
     {
-      "id": "13z5kch7",
-      "title": "IMG-20260809-WA0185",
-      "category": "kelas",
-      "photoMime": "image/jpeg",
-      "photoExt": "jpeg"
+      "id": "w5rxtk2z",
+      "title": "Pensi Sekolah 2023",
+      "category": "event"
     },
     {
-      "id": "ki38tvq2",
-      "title": "IMG-20260809-WA0184",
-      "category": "kelas",
-      "photoMime": "image/jpeg",
-      "photoExt": "jpeg"
+      "id": "ixrq8yf2",
+      "title": "Wisuda Angkatan",
+      "category": "wisuda"
     },
     {
-      "id": "on47f322",
-      "title": "IMG-20260809-WA0183",
-      "category": "kelas",
-      "photoMime": "image/jpeg",
-      "photoExt": "jpeg"
+      "id": "92ilev9e",
+      "title": "Studi Banding Jogja",
+      "category": "kelas"
     },
     {
-      "id": "ry2pw08u",
-      "title": "IMG-20260809-WA0182",
-      "category": "kelas",
-      "photoMime": "image/jpeg",
-      "photoExt": "jpeg"
+      "id": "ajfnj5s2",
+      "title": "Classmeeting Seru",
+      "category": "event"
     },
     {
-      "id": "jun26ya6",
-      "title": "IMG-20260809-WA0181",
-      "category": "kelas",
-      "photoMime": "image/jpeg",
-      "photoExt": "jpeg"
-    },
-    {
-      "id": "55jnuzkj",
-      "title": "IMG-20260809-WA0180",
-      "category": "kelas",
-      "photoMime": "image/jpeg",
-      "photoExt": "jpeg"
-    },
-    {
-      "id": "fc7yr0eh",
-      "title": "IMG-20260809-WA0179",
-      "category": "kelas",
-      "photoMime": "image/jpeg",
-      "photoExt": "jpeg"
-    },
-    {
-      "id": "zzplfzbo",
-      "title": "IMG-20260809-WA0178",
-      "category": "kelas",
-      "photoMime": "image/jpeg",
-      "photoExt": "jpeg"
-    },
-    {
-      "id": "t4n1y3tv",
-      "title": "IMG-20260809-WA0177(1)",
-      "category": "kelas",
-      "photoMime": "image/jpeg",
-      "photoExt": "jpeg"
-    },
-    {
-      "id": "3yjgg7su",
-      "title": "IMG-20260809-WA0177",
-      "category": "kelas",
-      "photoMime": "image/jpeg",
-      "photoExt": "jpeg"
-    },
-    {
-      "id": "x0k10tsf",
-      "title": "IMG-20260809-WA0176",
-      "category": "kelas",
-      "photoMime": "image/jpeg",
-      "photoExt": "jpeg"
-    },
-    {
-      "id": "ba0wlpjh",
-      "title": "IMG-20260809-WA0175",
-      "category": "kelas",
-      "photoMime": "image/jpeg",
-      "photoExt": "jpeg"
-    },
-    {
-      "id": "0fu7qz2d",
-      "title": "IMG-20260809-WA0174",
-      "category": "kelas",
-      "photoMime": "image/jpeg",
-      "photoExt": "jpeg"
-    },
-    {
-      "id": "69ul2upi",
-      "title": "IMG-20260809-WA0173",
-      "category": "kelas",
-      "photoMime": "image/jpeg",
-      "photoExt": "jpeg"
-    },
-    {
-      "id": "w2dt7ljw",
-      "title": "IMG-20260809-WA0172",
-      "category": "kelas",
-      "photoMime": "image/jpeg",
-      "photoExt": "jpeg"
-    },
-    {
-      "id": "z2b6mgqb",
-      "title": "IMG-20260809-WA0171",
-      "category": "kelas",
-      "photoMime": "image/jpeg",
-      "photoExt": "jpeg"
-    },
-    {
-      "id": "oj6hwsze",
-      "title": "IMG-20260809-WA0170",
-      "category": "kelas",
-      "photoMime": "image/jpeg",
-      "photoExt": "jpeg"
-    },
-    {
-      "id": "43k1stlo",
-      "title": "IMG-20260809-WA0169",
-      "category": "kelas",
-      "photoMime": "image/jpeg",
-      "photoExt": "jpeg"
+      "id": "pm0on6dw",
+      "title": "Foto Bersama Wali Kelas",
+      "category": "wisuda"
     }
   ],
   "timeline": [
     {
-      "id": "bpm7ljkp",
-      "year": "Agustus 2026 , 1 Semester",
-      "title": "kitu weh canda tawa",
-      "desc": ""
+      "id": "cjch37vj",
+      "year": "Juli 2022",
+      "title": "Hari Pertama SMA",
+      "desc": "Langkah pertama di koridor yang asing, tapi terasa seperti rumah setelah seminggu."
+    },
+    {
+      "id": "ao8qr7dz",
+      "year": "Des 2022",
+      "title": "Pensi Perdana",
+      "desc": "Panggung pertama bersama. Suara tawa lebih keras dari soundsystem."
+    },
+    {
+      "id": "o1ue7zil",
+      "year": "Maret 2023",
+      "title": "Study Tour Yogyakarta",
+      "desc": "Bus dua belas jam, tapi tidak ada yang tidur. Semua sibuk bercerita."
+    },
+    {
+      "id": "up4g7a28",
+      "year": "Oktober 2023",
+      "title": "Pekan Olahraga",
+      "desc": "Kelas XII melawan guru. Skor tidak penting — momennya yang tersimpan."
+    },
+    {
+      "id": "5dyaei5j",
+      "year": "Februari 2024",
+      "title": "Ujian Akhir",
+      "desc": "Malam sebelumnya panik. Paginya, saling menguatkan di depan gerbang."
+    },
+    {
+      "id": "cs9ywoch",
+      "year": "Mei 2024",
+      "title": "Wisuda & Perpisahan",
+      "desc": "Toga, air mata, dan janji untuk tidak kehilangan kontak. Babak baru dimulai."
     }
   ],
   "quotes": [
     {
-      "id": "7c633jl9",
-      "name": "Abdul Az",
-      "text": "Pokonamah Madeps"
+      "id": "i1lji7pa",
+      "name": "Aulia Nadhia",
+      "text": "Terima kasih sudah jadi keluarga yang tidak pernah dipilih, tapi selalu diingat."
+    },
+    {
+      "id": "lur04t4b",
+      "name": "Dika Mustikaan",
+      "text": "Waktu berlari, kita ikut lari. Tapi akarnya tetap di sini, di kelas XII ini."
+    },
+    {
+      "id": "1phauc17",
+      "name": "Bima Pratama",
+      "text": "Tiga tahun cukup untuk membuat kenangan yang bertahan seumur hidup. See you on top!"
     }
   ]
 }
