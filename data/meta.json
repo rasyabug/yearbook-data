@@ -1,12 +1,12 @@
 {
   "settings": {
-    "heroTitle": "Welcome To <em> Yearbook 9A <em>",
+    "heroTitle": "Welcome To <em> YearBook 9A <em>",
     "heroSub": "Bukan kertas yang kita pegang, tapi momen yang kita simpan.<br/>Selamat datang di buku tahunan digital kelas kami.",
     "year": "2024 - 2027"
   },
   "members": [
     {
-      "id": "e497yn5c",
+      "id": "t5cbvl4m",
       "name": "Rasya Andes Avrilio",
       "role": "",
       "quote": "\"\"",
@@ -16,282 +16,286 @@
   ],
   "gallery": [
     {
-      "id": "tbrqtdey",
-      "title": "IMG-20260809-WA0186",
-      "category": "kelas",
-      "photoMime": "image/jpeg",
-      "photoExt": "jpeg"
-    },
-    {
-      "id": "4e8uzpm8",
-      "title": "IMG-20260809-WA0185",
-      "category": "kelas",
-      "photoMime": "image/jpeg",
-      "photoExt": "jpeg"
-    },
-    {
-      "id": "8cciwc31",
-      "title": "IMG-20260809-WA0184",
-      "category": "kelas",
-      "photoMime": "image/jpeg",
-      "photoExt": "jpeg"
-    },
-    {
-      "id": "9qt1edyi",
-      "title": "IMG-20260809-WA0183",
-      "category": "kelas",
-      "photoMime": "image/jpeg",
-      "photoExt": "jpeg"
-    },
-    {
-      "id": "7ghwues3",
-      "title": "IMG-20260809-WA0182",
-      "category": "kelas",
-      "photoMime": "image/jpeg",
-      "photoExt": "jpeg"
-    },
-    {
-      "id": "0j2lx84g",
-      "title": "IMG-20260809-WA0181",
-      "category": "kelas",
-      "photoMime": "image/jpeg",
-      "photoExt": "jpeg"
-    },
-    {
-      "id": "xpqo1amq",
-      "title": "IMG-20260809-WA0180",
-      "category": "kelas",
-      "photoMime": "image/jpeg",
-      "photoExt": "jpeg"
-    },
-    {
-      "id": "klh2b0aj",
-      "title": "IMG-20260809-WA0179",
-      "category": "kelas",
-      "photoMime": "image/jpeg",
-      "photoExt": "jpeg"
-    },
-    {
-      "id": "03ro3y55",
-      "title": "IMG-20260809-WA0178",
-      "category": "kelas",
-      "photoMime": "image/jpeg",
-      "photoExt": "jpeg"
-    },
-    {
-      "id": "sgr587ai",
-      "title": "IMG-20260809-WA0177(1)",
-      "category": "kelas",
-      "photoMime": "image/jpeg",
-      "photoExt": "jpeg"
-    },
-    {
-      "id": "s6u4lrol",
-      "title": "IMG-20260809-WA0177",
-      "category": "kelas",
-      "photoMime": "image/jpeg",
-      "photoExt": "jpeg"
-    },
-    {
-      "id": "evx3jsxb",
-      "title": "IMG-20260809-WA0176",
-      "category": "kelas",
-      "photoMime": "image/jpeg",
-      "photoExt": "jpeg"
-    },
-    {
-      "id": "f6nw5k65",
-      "title": "IMG-20260809-WA0175",
-      "category": "kelas",
-      "photoMime": "image/jpeg",
-      "photoExt": "jpeg"
-    },
-    {
-      "id": "84lp2ng7",
-      "title": "IMG-20260809-WA0174",
-      "category": "kelas",
-      "photoMime": "image/jpeg",
-      "photoExt": "jpeg"
-    },
-    {
-      "id": "e7a13nxp",
-      "title": "IMG-20260809-WA0173",
-      "category": "kelas",
-      "photoMime": "image/jpeg",
-      "photoExt": "jpeg"
-    },
-    {
-      "id": "0ao7lmik",
-      "title": "IMG-20260809-WA0172",
-      "category": "kelas",
-      "photoMime": "image/jpeg",
-      "photoExt": "jpeg"
-    },
-    {
-      "id": "usdggp18",
-      "title": "IMG-20260809-WA0171",
-      "category": "kelas",
-      "photoMime": "image/jpeg",
-      "photoExt": "jpeg"
-    },
-    {
-      "id": "uepgrehf",
-      "title": "IMG-20260809-WA0170",
-      "category": "kelas",
-      "photoMime": "image/jpeg",
-      "photoExt": "jpeg"
-    },
-    {
-      "id": "4m3i79ru",
-      "title": "IMG-20260809-WA0169",
-      "category": "kelas",
-      "photoMime": "image/jpeg",
-      "photoExt": "jpeg"
-    },
-    {
-      "id": "zw9nink6",
+      "id": "fuszn50t",
       "title": "IMG-20260810-WA0051",
       "category": "kelas",
       "photoMime": "image/jpeg",
       "photoExt": "jpeg"
     },
     {
-      "id": "0j0kz5v9",
+      "id": "vvd2fhe9",
       "title": "IMG-20260810-WA0050",
       "category": "kelas",
       "photoMime": "image/jpeg",
       "photoExt": "jpeg"
     },
     {
-      "id": "4awxhs2u",
+      "id": "18w55ov5",
       "title": "IMG-20260810-WA0049",
       "category": "kelas",
       "photoMime": "image/jpeg",
       "photoExt": "jpeg"
     },
     {
-      "id": "yxdqvcyj",
+      "id": "nwa9lh7j",
       "title": "IMG-20260810-WA0048",
       "category": "kelas",
       "photoMime": "image/jpeg",
       "photoExt": "jpeg"
     },
     {
-      "id": "lnhdx2qm",
+      "id": "p0dc6tw0",
       "title": "IMG-20260810-WA0047",
       "category": "kelas",
       "photoMime": "image/jpeg",
       "photoExt": "jpeg"
     },
     {
-      "id": "9hrzvty6",
+      "id": "ka9eydj4",
       "title": "IMG-20260810-WA0046",
       "category": "kelas",
       "photoMime": "image/jpeg",
       "photoExt": "jpeg"
     },
     {
-      "id": "zxwy3nxb",
+      "id": "er1i172k",
       "title": "IMG-20260810-WA0045",
       "category": "kelas",
       "photoMime": "image/jpeg",
       "photoExt": "jpeg"
     },
     {
-      "id": "8no3qhyr",
+      "id": "aicl3qzg",
       "title": "IMG-20260810-WA0044",
       "category": "kelas",
       "photoMime": "image/jpeg",
       "photoExt": "jpeg"
     },
     {
-      "id": "zk6nhlbj",
+      "id": "hjyhitxv",
       "title": "IMG-20260810-WA0043",
       "category": "kelas",
       "photoMime": "image/jpeg",
       "photoExt": "jpeg"
     },
     {
-      "id": "x90r9wy2",
+      "id": "zt0ipyvr",
       "title": "IMG-20260810-WA0042",
       "category": "kelas",
       "photoMime": "image/jpeg",
       "photoExt": "jpeg"
     },
     {
-      "id": "12g02iez",
+      "id": "m8vzg99s",
       "title": "IMG-20260810-WA0041",
       "category": "kelas",
       "photoMime": "image/jpeg",
       "photoExt": "jpeg"
     },
     {
-      "id": "9jco3ccx",
+      "id": "skly867b",
       "title": "IMG-20260810-WA0040",
       "category": "kelas",
       "photoMime": "image/jpeg",
       "photoExt": "jpeg"
     },
     {
-      "id": "v3r3oo8y",
+      "id": "whkblugo",
       "title": "IMG-20260810-WA0039",
       "category": "kelas",
       "photoMime": "image/jpeg",
       "photoExt": "jpeg"
     },
     {
-      "id": "mks34a42",
+      "id": "04g0uj3n",
       "title": "IMG-20260810-WA0038",
       "category": "kelas",
       "photoMime": "image/jpeg",
       "photoExt": "jpeg"
     },
     {
-      "id": "7nyo8dgl",
+      "id": "03qla0gg",
       "title": "IMG-20260810-WA0037",
       "category": "kelas",
       "photoMime": "image/jpeg",
       "photoExt": "jpeg"
     },
     {
-      "id": "w50elp79",
+      "id": "93h7kbrf",
       "title": "IMG-20260810-WA0036",
-      "category": "kelas"
+      "category": "kelas",
+      "photoMime": "image/jpeg",
+      "photoExt": "jpeg"
     },
     {
-      "id": "fphyd1o1",
+      "id": "ovzhjyt3",
       "title": "IMG-20260810-WA0035",
-      "category": "kelas"
+      "category": "kelas",
+      "photoMime": "image/jpeg",
+      "photoExt": "jpeg"
     },
     {
-      "id": "dh77kuy9",
+      "id": "x1u3zrd1",
       "title": "IMG-20260810-WA0056",
-      "category": "kelas"
+      "category": "kelas",
+      "photoMime": "image/jpeg",
+      "photoExt": "jpeg"
     },
     {
-      "id": "wlxxm915",
+      "id": "l657qlv0",
       "title": "IMG-20260810-WA0055",
-      "category": "kelas"
+      "category": "kelas",
+      "photoMime": "image/jpeg",
+      "photoExt": "jpeg"
     },
     {
-      "id": "sfshd0bu",
+      "id": "1n343qqs",
       "title": "IMG-20260810-WA0054",
-      "category": "kelas"
+      "category": "kelas",
+      "photoMime": "image/jpeg",
+      "photoExt": "jpeg"
+    },
+    {
+      "id": "wvhz1plk",
+      "title": "IMG-20260809-WA0186",
+      "category": "kelas",
+      "photoMime": "image/jpeg",
+      "photoExt": "jpeg"
+    },
+    {
+      "id": "1rqk72wk",
+      "title": "IMG-20260809-WA0185",
+      "category": "kelas",
+      "photoMime": "image/jpeg",
+      "photoExt": "jpeg"
+    },
+    {
+      "id": "ln29n3m8",
+      "title": "IMG-20260809-WA0184",
+      "category": "kelas",
+      "photoMime": "image/jpeg",
+      "photoExt": "jpeg"
+    },
+    {
+      "id": "kn9kgqvt",
+      "title": "IMG-20260809-WA0183",
+      "category": "kelas",
+      "photoMime": "image/jpeg",
+      "photoExt": "jpeg"
+    },
+    {
+      "id": "5wv2z90v",
+      "title": "IMG-20260809-WA0182",
+      "category": "kelas",
+      "photoMime": "image/jpeg",
+      "photoExt": "jpeg"
+    },
+    {
+      "id": "nir7wodi",
+      "title": "IMG-20260809-WA0181",
+      "category": "kelas",
+      "photoMime": "image/jpeg",
+      "photoExt": "jpeg"
+    },
+    {
+      "id": "0mbka9kk",
+      "title": "IMG-20260809-WA0180",
+      "category": "kelas",
+      "photoMime": "image/jpeg",
+      "photoExt": "jpeg"
+    },
+    {
+      "id": "fnpc2552",
+      "title": "IMG-20260809-WA0179",
+      "category": "kelas",
+      "photoMime": "image/jpeg",
+      "photoExt": "jpeg"
+    },
+    {
+      "id": "9l9zg5o3",
+      "title": "IMG-20260809-WA0178",
+      "category": "kelas",
+      "photoMime": "image/jpeg",
+      "photoExt": "jpeg"
+    },
+    {
+      "id": "z7i3yf39",
+      "title": "IMG-20260809-WA0177(1)",
+      "category": "kelas",
+      "photoMime": "image/jpeg",
+      "photoExt": "jpeg"
+    },
+    {
+      "id": "wycvm0vd",
+      "title": "IMG-20260809-WA0177",
+      "category": "kelas",
+      "photoMime": "image/jpeg",
+      "photoExt": "jpeg"
+    },
+    {
+      "id": "ykxmjfzh",
+      "title": "IMG-20260809-WA0176",
+      "category": "kelas",
+      "photoMime": "image/jpeg",
+      "photoExt": "jpeg"
+    },
+    {
+      "id": "okfupug1",
+      "title": "IMG-20260809-WA0175",
+      "category": "kelas",
+      "photoMime": "image/jpeg",
+      "photoExt": "jpeg"
+    },
+    {
+      "id": "oa88uw99",
+      "title": "IMG-20260809-WA0174",
+      "category": "kelas",
+      "photoMime": "image/jpeg",
+      "photoExt": "jpeg"
+    },
+    {
+      "id": "u3zt8qyw",
+      "title": "IMG-20260809-WA0173",
+      "category": "kelas",
+      "photoMime": "image/jpeg",
+      "photoExt": "jpeg"
+    },
+    {
+      "id": "1q4l5lsb",
+      "title": "IMG-20260809-WA0172",
+      "category": "kelas",
+      "photoMime": "image/jpeg",
+      "photoExt": "jpeg"
+    },
+    {
+      "id": "ht8m40b9",
+      "title": "IMG-20260809-WA0171",
+      "category": "kelas",
+      "photoMime": "image/jpeg",
+      "photoExt": "jpeg"
+    },
+    {
+      "id": "qi83lafo",
+      "title": "IMG-20260809-WA0170",
+      "category": "kelas",
+      "photoMime": "image/jpeg",
+      "photoExt": "jpeg"
+    },
+    {
+      "id": "9tzytp4t",
+      "title": "IMG-20260809-WA0169",
+      "category": "kelas",
+      "photoMime": "image/jpeg",
+      "photoExt": "jpeg"
     }
   ],
   "timeline": [
     {
-      "id": "cu05nroy",
-      "year": "Agustus 2026 , 1 Semester",
-      "title": "kitu weh canda tawa",
+      "id": "h2yy77gc",
+      "year": "Agustus 2026 , Semester 1",
+      "title": "kitu we canda dan tawa",
       "desc": ""
     }
   ],
-  "quotes": [
-    {
-      "id": "kcbnax1s",
-      "name": "Abdul Az",
-      "text": "Pokonamah Madeps"
-    }
-  ]
+  "quotes": []
 }
