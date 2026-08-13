@@ -1,0 +1,160 @@
+{
+  "settings": {
+    "heroTitle": "Welcome To <em> Yearbook 9A <em>",
+    "heroSub": "Bukan kertas yang kita pegang, tapi momen yang kita simpan.<br/>Selamat datang di buku tahunan digital kelas kami.",
+    "year": "2024 - 2027"
+  },
+  "members": [
+    {
+      "id": "m1m3gclh",
+      "name": "Aulia Nadhia",
+      "role": "Ketua Kelas",
+      "quote": "\"Bersama kita bisa.\"",
+      "ig": "@aulianadh",
+      "hasPhoto": false
+    },
+    {
+      "id": "0yjza5vq",
+      "name": "Dika Mustikaan",
+      "role": "Sekretaris",
+      "quote": "\"Catatan terbaik adalah kenangan.\"",
+      "ig": "@dikamust",
+      "hasPhoto": false
+    },
+    {
+      "id": "g2k2gr1g",
+      "name": "Nivia Reski",
+      "role": "Bendahara",
+      "quote": "\"Hemat pangkal ingatan.\"",
+      "ig": "@nivia.rsk",
+      "hasPhoto": false
+    },
+    {
+      "id": "ryqulkaj",
+      "name": "Ridwan Akbar",
+      "role": "Wakil Ketua",
+      "quote": "\"Jaga satu, jaga semua.\"",
+      "ig": "@ridwankbr",
+      "hasPhoto": false
+    },
+    {
+      "id": "1blxh5jb",
+      "name": "Siti Rahma",
+      "role": "OSIS",
+      "quote": "\"Organisasi bukan beban.\"",
+      "ig": "@sitirahma",
+      "hasPhoto": false
+    },
+    {
+      "id": "6q7luigi",
+      "name": "Bima Pratama",
+      "role": "Ekskul Paskib",
+      "quote": "\"Disiplin adalah kebebasan.\"",
+      "ig": "@bimaptr",
+      "hasPhoto": false
+    },
+    {
+      "id": "urzjhdsp",
+      "name": "Faza Azrian",
+      "role": "Anggota",
+      "quote": "\"Masa muda tanpa batas.\"",
+      "ig": "@fazaazr",
+      "hasPhoto": false
+    },
+    {
+      "id": "o3zhgmn4",
+      "name": "Indira Lestari",
+      "role": "Anggota",
+      "quote": "\"Selalu ada jalan.\"",
+      "ig": "@indiralst",
+      "hasPhoto": false
+    }
+  ],
+  "gallery": [
+    {
+      "id": "ckcnxcf2",
+      "title": "Hari Pertama Kelas XII",
+      "category": "kelas"
+    },
+    {
+      "id": "6f6txl6m",
+      "title": "Pensi Sekolah 2023",
+      "category": "event"
+    },
+    {
+      "id": "azbkoxzl",
+      "title": "Wisuda Angkatan",
+      "category": "wisuda"
+    },
+    {
+      "id": "0ph73owf",
+      "title": "Studi Banding Jogja",
+      "category": "kelas"
+    },
+    {
+      "id": "vzo8vnac",
+      "title": "Classmeeting Seru",
+      "category": "event"
+    },
+    {
+      "id": "eo2lh9jt",
+      "title": "Foto Bersama Wali Kelas",
+      "category": "wisuda"
+    }
+  ],
+  "timeline": [
+    {
+      "id": "8i4kfz1b",
+      "year": "Juli 2022",
+      "title": "Hari Pertama SMA",
+      "desc": "Langkah pertama di koridor yang asing, tapi terasa seperti rumah setelah seminggu."
+    },
+    {
+      "id": "uxs9qoz4",
+      "year": "Des 2022",
+      "title": "Pensi Perdana",
+      "desc": "Panggung pertama bersama. Suara tawa lebih keras dari soundsystem."
+    },
+    {
+      "id": "gpdraoru",
+      "year": "Maret 2023",
+      "title": "Study Tour Yogyakarta",
+      "desc": "Bus dua belas jam, tapi tidak ada yang tidur. Semua sibuk bercerita."
+    },
+    {
+      "id": "32y0u5fk",
+      "year": "Oktober 2023",
+      "title": "Pekan Olahraga",
+      "desc": "Kelas XII melawan guru. Skor tidak penting — momennya yang tersimpan."
+    },
+    {
+      "id": "uflyx2af",
+      "year": "Februari 2024",
+      "title": "Ujian Akhir",
+      "desc": "Malam sebelumnya panik. Paginya, saling menguatkan di depan gerbang."
+    },
+    {
+      "id": "38vi4i7r",
+      "year": "Mei 2024",
+      "title": "Wisuda & Perpisahan",
+      "desc": "Toga, air mata, dan janji untuk tidak kehilangan kontak. Babak baru dimulai."
+    }
+  ],
+  "quotes": [
+    {
+      "id": "bg2yhla9",
+      "name": "Aulia Nadhia",
+      "text": "Terima kasih sudah jadi keluarga yang tidak pernah dipilih, tapi selalu diingat."
+    },
+    {
+      "id": "ng9kkx7z",
+      "name": "Dika Mustikaan",
+      "text": "Waktu berlari, kita ikut lari. Tapi akarnya tetap di sini, di kelas XII ini."
+    },
+    {
+      "id": "wnu5glf1",
+      "name": "Bima Pratama",
+      "text": "Tiga tahun cukup untuk membuat kenangan yang bertahan seumur hidup. See you on top!"
+    }
+  ]
+}
