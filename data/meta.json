@@ -4,92 +4,126 @@
     "heroSub": "Bukan kertas yang kita pegang, tapi momen yang kita simpan.<br/>Selamat datang di buku tahunan digital kelas kami.",
     "year": "2024 - 2027"
   },
-  "members": [],
+  "members": [
+    {
+      "id": "e497yn5c",
+      "name": "Rasya Andes Avrilio",
+      "role": "",
+      "quote": "\"\"",
+      "ig": "28archivee3_",
+      "hasPhoto": false
+    }
+  ],
   "gallery": [
     {
-      "id": "i7fdo9rh",
-      "title": "Hari Pertama Kelas XII",
+      "id": "tbrqtdey",
+      "title": "IMG-20260809-WA0186",
       "category": "kelas"
     },
     {
-      "id": "w5rxtk2z",
-      "title": "Pensi Sekolah 2023",
-      "category": "event"
-    },
-    {
-      "id": "ixrq8yf2",
-      "title": "Wisuda Angkatan",
-      "category": "wisuda"
-    },
-    {
-      "id": "92ilev9e",
-      "title": "Studi Banding Jogja",
+      "id": "4e8uzpm8",
+      "title": "IMG-20260809-WA0185",
       "category": "kelas"
     },
     {
-      "id": "ajfnj5s2",
-      "title": "Classmeeting Seru",
-      "category": "event"
+      "id": "8cciwc31",
+      "title": "IMG-20260809-WA0184",
+      "category": "kelas"
     },
     {
-      "id": "pm0on6dw",
-      "title": "Foto Bersama Wali Kelas",
-      "category": "wisuda"
+      "id": "9qt1edyi",
+      "title": "IMG-20260809-WA0183",
+      "category": "kelas"
+    },
+    {
+      "id": "7ghwues3",
+      "title": "IMG-20260809-WA0182",
+      "category": "kelas"
+    },
+    {
+      "id": "0j2lx84g",
+      "title": "IMG-20260809-WA0181",
+      "category": "kelas"
+    },
+    {
+      "id": "xpqo1amq",
+      "title": "IMG-20260809-WA0180",
+      "category": "kelas"
+    },
+    {
+      "id": "klh2b0aj",
+      "title": "IMG-20260809-WA0179",
+      "category": "kelas"
+    },
+    {
+      "id": "03ro3y55",
+      "title": "IMG-20260809-WA0178",
+      "category": "kelas"
+    },
+    {
+      "id": "sgr587ai",
+      "title": "IMG-20260809-WA0177(1)",
+      "category": "kelas"
+    },
+    {
+      "id": "s6u4lrol",
+      "title": "IMG-20260809-WA0177",
+      "category": "kelas"
+    },
+    {
+      "id": "evx3jsxb",
+      "title": "IMG-20260809-WA0176",
+      "category": "kelas"
+    },
+    {
+      "id": "f6nw5k65",
+      "title": "IMG-20260809-WA0175",
+      "category": "kelas"
+    },
+    {
+      "id": "84lp2ng7",
+      "title": "IMG-20260809-WA0174",
+      "category": "kelas"
+    },
+    {
+      "id": "e7a13nxp",
+      "title": "IMG-20260809-WA0173",
+      "category": "kelas"
+    },
+    {
+      "id": "0ao7lmik",
+      "title": "IMG-20260809-WA0172",
+      "category": "kelas"
+    },
+    {
+      "id": "usdggp18",
+      "title": "IMG-20260809-WA0171",
+      "category": "kelas"
+    },
+    {
+      "id": "uepgrehf",
+      "title": "IMG-20260809-WA0170",
+      "category": "kelas"
+    },
+    {
+      "id": "4m3i79ru",
+      "title": "IMG-20260809-WA0169",
+      "category": "kelas"
     }
   ],
   "timeline": [
     {
-      "id": "cjch37vj",
-      "year": "Juli 2022",
-      "title": "Hari Pertama SMA",
-      "desc": "Langkah pertama di koridor yang asing, tapi terasa seperti rumah setelah seminggu."
-    },
-    {
-      "id": "ao8qr7dz",
-      "year": "Des 2022",
-      "title": "Pensi Perdana",
-      "desc": "Panggung pertama bersama. Suara tawa lebih keras dari soundsystem."
-    },
-    {
-      "id": "o1ue7zil",
-      "year": "Maret 2023",
-      "title": "Study Tour Yogyakarta",
-      "desc": "Bus dua belas jam, tapi tidak ada yang tidur. Semua sibuk bercerita."
-    },
-    {
-      "id": "up4g7a28",
-      "year": "Oktober 2023",
-      "title": "Pekan Olahraga",
-      "desc": "Kelas XII melawan guru. Skor tidak penting — momennya yang tersimpan."
-    },
-    {
-      "id": "5dyaei5j",
-      "year": "Februari 2024",
-      "title": "Ujian Akhir",
-      "desc": "Malam sebelumnya panik. Paginya, saling menguatkan di depan gerbang."
-    },
-    {
-      "id": "cs9ywoch",
-      "year": "Mei 2024",
-      "title": "Wisuda & Perpisahan",
-      "desc": "Toga, air mata, dan janji untuk tidak kehilangan kontak. Babak baru dimulai."
+      "id": "cu05nroy",
+      "year": "Agustus 2026 , 1 Semester",
+      "title": "kitu weh canda tawa",
+      "desc": ""
     }
   ],
   "quotes": [
     {
-      "id": "i1lji7pa",
-      "name": "Aulia Nadhia",
-      "text": "Terima kasih sudah jadi keluarga yang tidak pernah dipilih, tapi selalu diingat."
-    },
-    {
-      "id": "lur04t4b",
-      "name": "Dika Mustikaan",
-      "text": "Waktu berlari, kita ikut lari. Tapi akarnya tetap di sini, di kelas XII ini."
-    },
-    {
-      "id": "1phauc17",
-      "name": "Bima Pratama",
-      "text": "Tiga tahun cukup untuk membuat kenangan yang bertahan seumur hidup. See you on top!"
+      "id": "kcbnax1s",
+      "name": "Abdul Az",
+      "text": "Pokonamah Madeps"
     }
   ]
 }
