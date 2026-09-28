@@ -4,6 +4,13 @@
   "images": [],
   "photos": [
     {
+      "id": "4715a3f7-934d-46ce-bf3d-861f74fe0ab0",
+      "name": "2jw7bf7g.webp",
+      "path": "photos/1790606395550-41bb29c374c2.webp",
+      "url": "https://raw.githubusercontent.com/rasyabug/yearbook-data/main/photos/1790606395550-41bb29c374c2.webp",
+      "uploadedAt": "2026-09-28T14:39:56.667Z"
+    },
+    {
       "id": "fde5f654-ce03-414a-ac03-e5824a0cf6b6",
       "name": "2m00ehka.webp",
       "path": "photos/1790606392003-69c8773ac3a7.webp",
@@ -12,5 +19,5 @@
     }
   ],
   "version": 2,
-  "updatedAt": "2026-09-28T14:39:53.503Z"
+  "updatedAt": "2026-09-28T14:39:56.809Z"
 }
