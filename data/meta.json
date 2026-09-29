@@ -1,7 +1,11 @@
 {
-  "title": "Memory Class 9A",
-  "description": "Dokumentasi foto kelas",
-  "images": [],
+  "version": 2,
+  "updatedAt": "2026-09-29T10:05:42.262Z",
+  "settings": {
+    "className": "91_attractive",
+    "title": "Memory Class 9A",
+    "subtitle": "Dokumentasi foto kelas"
+  },
   "photos": [
     {
       "id": "9dded292-b10a-46b4-87f6-00d0cacec457",
@@ -32,11 +36,7 @@
       "uploadedAt": "2026-09-28T14:39:53.389Z"
     }
   ],
-  "version": 2,
-  "updatedAt": "2026-09-28T14:43:54.127Z",
-  "settings": {
-    "className": "91_attractive",
-    "title": "Picture Photo In Class 9A",
-    "subtitle": ""
-  }
+  "title": "Memory Class 9A",
+  "description": "Dokumentasi foto kelas",
+  "images": []
 }
