@@ -1,12 +1,19 @@
 {
   "version": 2,
-  "updatedAt": "2026-09-29T14:25:39.565Z",
+  "updatedAt": "2026-09-30T09:12:08.132Z",
   "settings": {
     "className": "91_attractive",
     "title": "Memory Class 9A",
     "subtitle": "Dokumentasi foto kelas"
   },
   "photos": [
+    {
+      "id": "ce1c4db0-d96c-4d9d-98d7-ce74145605b6",
+      "name": "IMG-20260930-WA0030.jpg",
+      "path": "photos/1790759526384-a9c23b95bc60.jpg",
+      "url": "https://raw.githubusercontent.com/rasyabug/yearbook-data/main/photos/1790759526384-a9c23b95bc60.jpg",
+      "uploadedAt": "2026-09-30T09:12:08.023Z"
+    },
     {
       "id": "be4d0ba3-9233-4160-8808-1a1e5276298d",
       "name": "IMG-20260929-WA0075.jpg",
