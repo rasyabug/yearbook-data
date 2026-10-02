@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedAt": "2026-10-02T07:28:26.346Z",
+  "updatedAt": "2026-10-02T07:43:29.136Z",
   "settings": {
     "className": "91_attractive",
     "title": "Memory Class 9A",
@@ -174,13 +174,6 @@
       "path": "photos/1790759559424-b820062dd726.jpg",
       "url": "https://raw.githubusercontent.com/rasyabug/yearbook-data/main/photos/1790759559424-b820062dd726.jpg",
       "uploadedAt": "2026-09-30T09:12:40.801Z"
-    },
-    {
-      "id": "b78e492c-c17c-4db1-a4a7-67047e047955",
-      "name": "IMG-20260930-WA0011.jpg",
-      "path": "photos/1790759540249-2a46910c482e.jpg",
-      "url": "https://raw.githubusercontent.com/rasyabug/yearbook-data/main/photos/1790759540249-2a46910c482e.jpg",
-      "uploadedAt": "2026-09-30T09:12:21.208Z"
     },
     {
       "id": "6413a7e8-8084-4772-ae1d-0df3cee5e08a",
